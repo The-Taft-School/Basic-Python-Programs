@@ -1,5 +1,5 @@
 # Basic-Python-Programs
-## Write a Python programs to solve the following problems.
+## Write a Python program to solve the following problems.
 1. Calculate the Area of a triangle. 
 2. To solve a quadratic equation.
 3. Modify the above two programs such that the values are taken from the user. Follow this link for more instruction:https://www.w3schools.com/python/python_user_input.asp
