@@ -7,10 +7,10 @@
 5. Format of your file should be as follows: lastname_triangle.py and lastname_quadratic.py. Example: rane_triangle.py </br>
 
 ### Algorithms:
-1. If a,b,c are three sides of a triangle. Calculate the semi perimeter of the triangle and use the distance formula. </br> Semi perimeter: s=(a+b+c)/2, Distance Formula: area= (s*(s-a)*(s-b)*(s-c)) ** 0.5
-2. The standard form of a quadratic equation is: </br> 
+1. If a,b,c are three sides of a triangle. Calculate the semi perimeter of the triangle and use the distance formula. </br> Semi perimeter: s=(a+b+c)/2, Heron's Formula: area= (s*(s-a)*(s-b)*(s-c)) ** 0.5 </br> https://www.mathopenref.com/heronsformula.html
+3. The standard form of a quadratic equation is: </br> 
 <code>
-  ax2 + bx + c = 0, where
+  ax^2 + bx + c = 0, where
   a, b and c are real numbers and
   a ≠ 0
 </code> </br>
