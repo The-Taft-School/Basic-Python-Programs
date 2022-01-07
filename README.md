@@ -13,7 +13,7 @@
   ax2 + bx + c = 0, where
   a, b and c are real numbers and
   a ≠ 0
-</code>
+</code> </br>
 <code>
   Solution:
   (-b ± (b ** 2 - 4 * a * c) ** 0.5) / (2 * a)
